@@ -1,13 +1,14 @@
 
-# MaVoix
+_MaVoix_
 Citoyens présentant des candidats aux législatives de 2017 qui relaieront leurs décisions pendant 5 ans une fois élus.
 
-# MaVoix est une expérience de démocratie participative
+MaVoix est une expérience de démocratie participative
 
-l'ADN de #Mavoix en une phrase sur le site http://www.mavoix.info/
-#MaVoix est une expérimentation démocratique à l’occasion  des législatives de juin 2017. L’objectif est de hacker l’Assemblée Nationale en faisant élire des citoyens volontaires, formés et tirés au sort qui voteront pendant 5 ans sur toutes les lois comme leurs électeurs le décideront.
+_l'ADN de #Mavoix en une phrase_
+sur le site http://www.mavoix.info/
+MaVoix est une expérimentation démocratique à l’occasion  des législatives de juin 2017. L’objectif est de hacker l’Assemblée Nationale en faisant élire des citoyens volontaires, formés et tirés au sort qui voteront pendant 5 ans sur toutes les lois comme leurs électeurs le décideront.
 
-# Texte de présentation sur la page facebook https://www.facebook.com/mavoixjuin2017/ :
+_Texte de présentation sur la page facebook https://www.facebook.com/mavoixjuin2017/ :_
 
 Nous sommes de ceux qui n’arrivent plus à aller voter la tête haute.
 Certains d’entre nous ne votent plus du tout, d’autres votent blanc, ceux qui votent encore le font par défaut, avec tristesse ou colère.
