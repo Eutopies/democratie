@@ -5,6 +5,7 @@ Citoyens présentant des candidats aux législatives de 2017 qui relaieront leur
 **L'ADN de #Mavoix en une phrase**
 
 sur le site http://www.mavoix.info/
+
 MaVoix est une expérimentation démocratique à l’occasion  des législatives de juin 2017. L’objectif est de hacker l’Assemblée Nationale en faisant élire des citoyens volontaires, formés et tirés au sort qui voteront pendant 5 ans sur toutes les lois comme leurs électeurs le décideront.
 
 **Texte de présentation sur la page facebook https://www.facebook.com/mavoixjuin2017/ :**
